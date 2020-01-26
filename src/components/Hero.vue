@@ -10,8 +10,8 @@
           <div class="flex">
             <div class="w-2/5">
               <h2 class="text-xl font-bold">Set up a 100% foreign owned company within 30 days</h2>
-              <ul class="mt-4 text-gray-700 text-lg font-semibold">
-                <li class="mt-4">
+              <ul class="text-gray-700 text-lg font-semibold">
+                <li class="mt-8">
                   <div class="flex items-center">
                     <tick-icon></tick-icon>
                     <div>Flexible paid up capital and corporate structure</div>
@@ -48,7 +48,7 @@
                   />
                 </div>
               </div>
-              <div class="ml-4 mt-2 text-sm text-gray-700">
+              <div class="ml-4 py-2 text-sm text-gray-700">
                 <div class="mt-1">
                   Foreign Ownership :
                   <strong class="text-gray-900 font-bold">Allowed</strong>
