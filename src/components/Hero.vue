@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="bg-secondary00 text-font-primary font-medium">
+    <div class="bg-gray-2 text-font-primary font-medium">
       <div class="container mx-auto">
         <nav class="pt-4">
           <img src="/img/logo.png" class="logo" />
