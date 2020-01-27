@@ -8,7 +8,7 @@
         <div class="mt-10">
           <h1 class="text-h1 font-extrabold">Register a foreign company in Vietnam</h1>
           <div class="flex">
-            <div class="w-2/5 mt-5">
+            <div class="mt-5">
               <h3 class="text-h3 font-bold">Set up a 100% foreign owned company within 30 days</h3>
               <ul class="text-gray-700 text-li">
                 <li class="mt-6">
@@ -86,7 +86,7 @@
     </div>
     <div class="container mx-auto">
       <div class="flex">
-        <div class="w-2/5 -mt-6">
+        <div class="w-2/5 -mt-8">
           <button class="bg-primary text-li w-full text-white py-3 rounded-lg">Get a Quote</button>
         </div>
         <div class="ml-auto mt-2 mr-8 flex">
