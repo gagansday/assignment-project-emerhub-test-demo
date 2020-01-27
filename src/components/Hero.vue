@@ -5,7 +5,7 @@
         <nav class="pt-4">
           <img src="/img/logo.png" class="logo" />
         </nav>
-        <div class="mt-10 pb-8">
+        <div class="mt-10">
           <h1 class="text-h1 font-extrabold">Register a foreign company in Vietnam</h1>
           <div class="flex">
             <div class="w-2/5 mt-5">
@@ -69,8 +69,8 @@
               </div>
             </div>
             <div class="ml-auto flex items-end">
-              <div class="-mt-16">
-                <img src="/img/slider-1.png" alt="slider-image" />
+              <div>
+                <img src="/img/hailey.png" alt="slider-image" />
               </div>
               <div class="text-gray-700 text-sm text-font-gray-1">
                 <div class="mb-8">
